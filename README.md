@@ -34,7 +34,8 @@ My name is Dinesh, and I enjoy building Mobile Applications using Kotlin.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshvg&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe)](https://github.com/dineshvg?tab=repositories)
 	
 <h3>Where to find me</h3>
-</a><a href="https://twitter.com/Programr_Dinesh" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/dineshvg2310/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<!--</a><a href="https://twitter.com/Programr_Dinesh" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>-->
+<a href="https://www.linkedin.com/in/dineshvg2310/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 
 	

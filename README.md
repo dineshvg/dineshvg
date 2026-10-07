@@ -10,7 +10,7 @@
 
 ### 🧠 AI & Agentic Development
 I am actively exploring how AI agents can seamlessly interact with and generate complex software systems.
-- **Android MCP Server**: Enables any MCP-compatible AI agent to drive and test Android apps.
+- **MCP Server**: Enables any MCP-compatible AI agent to drive and test.
 - **Health Plan Agent Skill**: An autonomous agent skill that calculates health targets and generates an entire offline-first PWA backed by a private Google Sheet.
 
 <div align="center">

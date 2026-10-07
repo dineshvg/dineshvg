@@ -10,14 +10,13 @@
 
 ### 🧠 AI & Agentic Development
 I am actively exploring how AI agents can seamlessly interact with and generate complex software systems.
-- **Conduit (Android MCP Server)**: A Kotlin Multiplatform system that enables any MCP-compatible AI agent to drive and test Android apps on real devices via AccessibilityService—no scripted UI tests needed.
+- **Android MCP Server**: Enables any MCP-compatible AI agent to drive and test Android apps.
 - **Health Plan Agent Skill**: An autonomous agent skill that calculates health targets and generates an entire offline-first PWA backed by a private Google Sheet.
 
 <div align="center">
   <a href="https://github.com/dineshvg/health-plan-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshvg&repo=health-plan-app&theme=transparent&hide_border=true&title_color=3DDC84&icon_color=3DDC84" alt="Health Plan App" />
   </a>
-  <!-- Note: Conduit is currently a private repository. Make it public on GitHub for a repo card to render here! -->
 </div>
 
 ---

@@ -1,64 +1,42 @@
-### Hi there 👋, I'm Dinesh Gangatharan
+<p align="center">
+  <img src="svg/hero.svg?v=1" width="100%" alt="Dinesh Gangatharan — Software Architect and Lead Android Developer at gematik, Stuttgart" />
+</p>
 
-**Software Architect & Lead Android Developer** based in Stuttgart, Germany. I specialize in E-Health infrastructure, Kotlin Multiplatform, and AI Agent ecosystems.
+<p align="center">
+  <img src="svg/about-life.svg?v=1" width="100%" alt="What I build: Android at national scale, tools for AI agents, native macOS apps" />
+</p>
 
-- 🚀 Currently leading Android architecture for Germany's official E-Rezept app (2M+ users) and the PoPP SDK.
-- 👨‍💻 Check out my portfolio: [dineshvg.github.io](https://dineshvg.github.io)
-- 📝 Read my articles on [Medium](https://medium.com/@dineshvg.1023)
+<p align="center">
+  <img src="svg/stack.svg?v=1" width="100%" alt="Tech stack: Kotlin, Jetpack Compose, KMP, Swift, Gradle, GitHub Actions, MCP, Claude Code" />
+</p>
 
----
+<p align="center">
+  <img src="svg/id-dashboard.svg?v=1" width="100%" alt="ID badge and GitHub stats dashboard" />
+</p>
 
-### 🪟 Shade: notes, terminal and code, one keystroke away
-<img src="https://raw.githubusercontent.com/dineshvg/Shade/main/Resources/AppIcon.png" width="72" align="right" alt="Shade icon" />
+### 🧩 Projects
 
-[**Shade**](https://github.com/dineshvg/Shade) is a native macOS app I built that pulls a translucent workspace down from the top of the screen, like a window shade. One shortcut, on top of any app, and your current app stays in front.
-- 🗒️ **In meetings**: keep talking points in cards and read them with an on-device translation next to them (Apple Translation, nothing leaves your Mac).
-- 🤖 **With AI agents**: run Claude Code or Copilot CLI in a terminal card, follow their status in the tab, and see the repository's changes, diffs and files without switching to the IDE.
-- ✏️ **For quick edits**: open any file from the repo, edit it with syntax highlighting for about 190 languages, and hand it to your real IDE when it gets bigger.
+| Project | What it is | Stack |
+|---|---|---|
+| [**Shade**](https://github.com/dineshvg/Shade) | Native macOS app that pulls a translucent workspace down from the top of the screen: notes with on-device translation, a terminal for Claude Code / Copilot CLI, and quick code edits. MIT licensed. | Swift · SwiftUI · AppKit |
+| [**Health Plan Agent Skill**](https://github.com/dineshvg/health-plan-app) | Claude Code skill that turns health goals into training and food plans, a private Google Sheet tracker and an installable offline-first PWA. | Agent skill · PWA · Google Sheets |
+| [**E-Rezept App**](https://github.com/gematik/E-Rezept-App-Android) | Germany's official e-prescription app (2M+ users). I lead its Android architecture at gematik. | Kotlin · Compose · multi-module Gradle |
+| **MCP server for app testing** | Lets any MCP-compatible AI agent drive and test mobile apps. | Kotlin Multiplatform · MCP |
+| [**dineshvg.github.io**](https://dineshvg.github.io) | My portfolio. | Web |
 
-Built with Swift, SwiftUI and AppKit; open source under the MIT License.
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="My GitHub contributions as a 3D night-view city" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/dineshvg/Shade">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshvg&repo=Shade&theme=transparent&hide_border=true&title_color=3DDC84&icon_color=3DDC84" alt="Shade" />
-  </a>
-</div>
+<p align="center">
+  <img src="svg/connect.svg?v=1" width="100%" alt="Let's build something together" />
+</p>
 
----
+<p align="center">
+  <a href="https://dineshvg.github.io"><img src="svg/link-portfolio.svg?v=1" width="32%" alt="Portfolio — dineshvg.github.io" /></a>
+  <a href="https://www.linkedin.com/in/dineshvg2310/"><img src="svg/link-linkedin.svg?v=1" width="32%" alt="LinkedIn — in/dineshvg2310" /></a>
+  <a href="https://medium.com/@dineshvg.1023"><img src="svg/link-medium.svg?v=1" width="32%" alt="Medium — @dineshvg.1023" /></a>
+</p>
 
-### 🧠 AI & Agentic Development
-I am actively exploring how AI agents can seamlessly interact with and generate complex software systems.
-- **MCP Server**: Enables any MCP-compatible AI agent to drive and test.
-- **Health Plan Agent Skill**: An autonomous agent skill that calculates health targets and generates an entire offline-first PWA backed by a private Google Sheet.
-
-<div align="center">
-  <a href="https://github.com/dineshvg/health-plan-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dineshvg&repo=health-plan-app&theme=transparent&hide_border=true&title_color=3DDC84&icon_color=3DDC84" alt="Health Plan App" />
-  </a>
-</div>
-
----
-
-#### 🛠 Tech Stack
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Ktor](https://img.shields.io/badge/ktor-%23087CFA.svg?style=for-the-badge&logo=ktor&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-%2334A853.svg?style=for-the-badge&logo=google-sheets&logoColor=white)
-
----
-
-#### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dineshvg&show_icons=true&theme=transparent&hide_border=true&title_color=3DDC84&icon_color=3DDC84" alt="Dinesh's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshvg&layout=compact&theme=transparent&hide_border=true&title_color=3DDC84" alt="Top Languages" />
-</div>
-
----
-
-#### ✨ Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dineshvg2310/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dineshvg.1023)
+<!-- SVGs are generated by build/build.py from build/config.json and refreshed daily by .github/workflows/refresh-profile.yml.
+     If an edit doesn't show up, bump ?v=1 → ?v=2 on the image links (GitHub caches images aggressively). -->

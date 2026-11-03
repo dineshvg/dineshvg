@@ -1,0 +1,71 @@
+{
+  "name": "Dinesh Gangatharan",
+  "username": "dineshvg",
+  "greeting": "> Hi there, I'm",
+  "pill": "open to collabs",
+  "roles": [
+    "Software Architect @ gematik",
+    "Lead Android Developer",
+    "Kotlin Multiplatform builder",
+    "AI agent tooling tinkerer"
+  ],
+  "pitch": [
+    "Architecting Germany's official E-Rezept app (2M+ users)",
+    "and building tools that let AI agents test mobile apps."
+  ],
+  "meta": [
+    {"icon": "pin", "text": "Stuttgart, DE"},
+    {"icon": "work", "text": "gematik"},
+    {"icon": "cert", "text": "iSAQB CPSA-F"}
+  ],
+  "filename": "DG_dad_mode.raw",
+
+  "browser_url": "github.com/dineshvg",
+  "build": [
+    {"icon": "android", "title": "Android at national scale", "text": "E-Rezept app & PoPP SDK — Kotlin, Compose, modular"},
+    {"icon": "claude", "title": "Tools for AI agents", "text": "An MCP server that lets agents drive & test apps"},
+    {"icon": "apple", "title": "Native macOS apps", "text": "Shade — notes, terminal & code, one keystroke away"}
+  ],
+  "life": [
+    {"art": "heart", "title": "Dad mode: on", "caption": "Best side project. Zero docs."},
+    {"art": "night", "title": "After-bedtime builds", "caption": "Side projects once the house is quiet"},
+    {"art": "medium", "title": "Writing on Medium", "caption": "Notes from Android & architecture work"},
+    {"art": "ml", "title": "Learning ML & LLMs", "caption": "Agents, evals and everything in between"}
+  ],
+  "rings": [
+    {"label": "Code", "value": 0.82},
+    {"label": "Family", "value": 0.95},
+    {"label": "Learn", "value": 0.64}
+  ],
+
+  "orbits": [
+    {"tilt": -18, "a": 178, "b": 56, "period": 26, "icons": ["kotlin", "jetpackcompose", "android"]},
+    {"tilt": 42, "a": 160, "b": 46, "period": 32, "icons": ["gradle", "githubactions", "docker"]},
+    {"tilt": 102, "a": 150, "b": 40, "period": 38, "icons": ["swift", "ktor", "claude"]}
+  ],
+  "moons": ["kotlin", "android"],
+  "chips": [
+    {"title": "Mobile", "items": ["Kotlin", "Jetpack Compose", "Coroutines & Flow", "KMP", "SwiftUI"]},
+    {"title": "Architecture", "items": ["iSAQB CPSA-F", "Clean Architecture", "Multi-module Gradle", "Mobile Security"]},
+    {"title": "Delivery", "items": ["Gradle", "Fastlane", "Jenkins", "GitHub Actions", "Play Store"]},
+    {"title": "AI", "items": ["MCP", "Claude Code", "AI Agents", "LLM Evals"]}
+  ],
+
+  "strap": "DINESHVG",
+  "badge_tag": "CPSA-F",
+  "badge_role": "Software Architect · Android",
+  "badge_id": "STUTTGART · DE",
+  "now": [
+    "Architecting the PoPP SDK at gematik",
+    "Building evals for my MCP app-testing server",
+    "Learning ML, LLMs & AI agents"
+  ],
+
+  "connect_line": "Let's build something together",
+  "connect_sub": "Android architecture, KMP, AI agents — happy to talk shop.",
+  "links": [
+    {"id": "portfolio", "icon": "web", "label": "Portfolio", "handle": "dineshvg.github.io", "url": "https://dineshvg.github.io"},
+    {"id": "linkedin", "icon": "linkedin", "label": "LinkedIn", "handle": "in/dineshvg2310", "url": "https://www.linkedin.com/in/dineshvg2310/"},
+    {"id": "medium", "icon": "medium", "label": "Medium", "handle": "@dineshvg.1023", "url": "https://medium.com/@dineshvg.1023"}
+  ]
+}
